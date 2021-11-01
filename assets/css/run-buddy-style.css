@@ -138,6 +138,11 @@ footer a {
 
 /* Hero Style End */
 
+.go-to-google section {
+   padding: 20px 35px;
+   background-color: #39a6b2;
+}
+
 /*section {
    padding: 60px;
 }*/
