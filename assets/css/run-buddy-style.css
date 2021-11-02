@@ -8,9 +8,6 @@
    box-sizing: border-box;
 }
 
-
-
-
 body {
    /* more on this crazy alphanumerical value in a minute! */
    color: #39a6b2;
@@ -83,7 +80,7 @@ section {
 
 /* Hero Style Start */
 .hero {
-   background-image: url(../images/hero-bg.jpg);
+   background-image: url('../images/hero-bg.jpg');
    height: 600px;
    background-size: cover;
    background-position: center;
@@ -93,18 +90,6 @@ section {
 /*Hero Style End*/
 
 /* homepage hero styles */
-.hero {
-   margin: 20px;
-   background-color: white;
-   font-size: 20px;
-   color: blue;
-}
-
-/* these two colors will override the ones above in .hero / Secondary Page Hero */
-.hero-secondary {
-   background-color: black;
-   color: red;
-}
 
 .hero-form {
    border: solid 3px #024e76;
@@ -232,13 +217,6 @@ section {
    width: 65%;
 }
 
-.text-left {
-   text-align: left;
-}
-
-.text-right {
-   text-align: right;
-}
 
 .trainer-bio h3 {
    font-size: 32px;
@@ -256,14 +234,14 @@ section {
    line-height: 1.3;
 }
 
-.section-title {
-   font-size: 55px;
-   display: inline-block;
-   padding: 0 100px 20px 100px;
-   border-bottom: 3px solid;
-   margin-bottom: 35px;
-   color: #024e76;
+.text-left {
+   text-align: left;
 }
+
+.text-right {
+   text-align: right;
+}
+
 
 /* Reach Out Styles Start */
 
@@ -290,12 +268,17 @@ section {
    font-size: 32px;
 }
 
-.contact-info p, .contact-info address {
+.contact-info p, 
+.contact-info address {
    margin: 20px 0;
    line-height: 1.5;
    font-size: 20px;
    font-style: normal;
 
+}
+
+.contact-info a {
+   color: #fce138;
 }
 
 /* Reach out Styles End */
