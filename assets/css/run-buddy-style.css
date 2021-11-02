@@ -92,6 +92,20 @@ section {
 
 /*Hero Style End*/
 
+/* homepage hero styles */
+.hero {
+   margin: 20px;
+   background-color: white;
+   font-size: 20px;
+   color: blue;
+}
+
+/* these two colors will override the ones above in .hero / Secondary Page Hero */
+.hero-secondary {
+   background-color: black;
+   color: red;
+}
+
 .hero-form {
    border: solid 3px #024e76;
    background-color: #fce138;
