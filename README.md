@@ -13,3 +13,5 @@ My first practice project.
 
 ## Contribution 
 Made with ❤️ by Eiko Ujifusa
+
+### ©️2019 Run Buddy, Inc 
