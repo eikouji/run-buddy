@@ -2,7 +2,7 @@
 
 ## Purpose 
 A website that offers fitness training services -- 
-My first practice project. 
+My first practice project. Wish me luck and tenacity!
 
 ## Built with
 * HTML
