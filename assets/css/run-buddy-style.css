@@ -194,6 +194,10 @@ section {
    flex: 1 30%;
 }
 
+.steps-text {
+   flex: 12;
+}
+
 .steps-text p {
    color: #39a6b2;
    font-size: 18px;
@@ -228,6 +232,15 @@ section {
    display: flex;
    flex-wrap: wrap;
    align-items: center;
+}
+
+.step-img {
+   flex: 1 12%;
+   margin-right: 20px;
+}
+
+.step-img img {
+   max-width: 100%;
 }
 
 /* Trainers section and styles */
