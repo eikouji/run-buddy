@@ -8,8 +8,12 @@ My first practice project. Wish me luck and tenacity!
 * HTML
 * CSS
 
-## Website
+## Screencap of working webpage ##
 
+
+
+## Website URL ##
+https://eikouji.github.io/run-buddy/
 
 ## Contribution 
 Made with ❤️ by Eiko Ujifusa
